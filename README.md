@@ -2,8 +2,7 @@
 
 <a href="https://www.instagram.com/noemiedjrn/">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-
+</a> My instagram
 <br></br>
 
 Hey what's up ? I'm Noemie and welcome to my GitHub Profile README page. I am currently a computer science student and some of my academic projects are on this GitHub. 
@@ -20,7 +19,5 @@ Hey what's up ? I'm Noemie and welcome to my GitHub Profile README page. I am cu
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
 <br></br>
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=noemiedjerian&show_icons=true&theme=radical)
