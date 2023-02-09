@@ -8,7 +8,7 @@
 Hey what's up ? I'm Noemie and welcome to my GitHub Profile README page. I am currently a computer science student and some of my academic projects are on this GitHub. 
 
 ```javascript
-  languages: [Java, C++, HTML, CSS, SQL, Python]
+  languages: [Java, C/C++, HTML, CSS, SQL, Python, Javascript, PHP]
 ```
 
 ### Softwares:
